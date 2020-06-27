@@ -29,3 +29,4 @@ print("게임이 끝났습니다.")
 
 
 #깃 변경사항 체크용
+test test test
